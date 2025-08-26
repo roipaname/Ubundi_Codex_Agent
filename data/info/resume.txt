@@ -1,0 +1,68 @@
+📄 Resume (Clarence Ebebe)
+
+CLARENCE EBEBE
+AI/Automations Engineer
+📞 +27 633589251 | ✉️ ebebeclarence55@gmail.com
+
+🌍 Africa | 🔗 LinkedIn
+ | 🔗 GitHub
+
+EXPERIENCE
+
+AI/Automations Engineer – Kodah (2024–Present, South Africa)
+
+Designed and deployed AI-driven automation solutions using Python, TensorFlow, and OpenAI APIs on GCP, reducing operational overhead by 50%.
+
+Built intelligent automation workflows with Zapier, Make (Integromat), and custom APIs, improving cross-platform data synchronization.
+
+Data Scientist – Mipad (2022–2024, UK)
+
+Developed predictive ML models (scikit-learn, XGBoost, PyTorch, R) improving customer retention by 25% and optimizing marketing spend.
+
+Built global and personalized real-time reporting systems (SAS, Tableau).
+
+Enhanced customer recommendation engine efficiency by 33%.
+
+Freelance Web Developer – Self-Employed (2020–2022, Remote)
+
+Built scalable full-stack web apps (React, Vue.js, Node.js, Express, Java, Python).
+
+Integrated REST APIs and cloud services (AWS, Azure).
+
+Conducted EDA, hypothesis testing, time-series forecasting, delivering insights with Power BI, Tableau, Python.
+
+Worked in Agile teams with CI/CD (Git, Docker, Jenkins).
+
+EDUCATION
+
+BSc Computer Science with AI – University of Johannesburg (2023–2025)
+
+Oracle Cloud AI Certificate – Oracle (2025)
+
+GCSE A Level – Sacred Heart College (2020, Cameroon)
+
+SUMMARY
+
+AI Engineer with 4+ years of experience in ML, NLP, RAG, and CV, focused on intelligent systems that enhance efficiency and decision-making.
+
+Built and scaled 500+ parallel processing apps in Python for AI workflows.
+
+Skilled in deploying DL models into production and bridging DS + engineering.
+
+SKILLS
+
+Languages & Tools: Python, Java, JavaScript, TypeScript, SQL, R
+
+AI/ML: PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, Keras, XGBoost
+
+Cloud/Infra: AWS, Azure, GCP, Docker, Git, MLOps, LangChain, FastAPI
+
+Data/BI: Power BI, Tableau, Spark
+
+Web/Automation: React, Node.js, RESTful APIs, Zapier, Make (Integromat)
+
+LANGUAGES
+
+English (Native)
+
+French (Native)

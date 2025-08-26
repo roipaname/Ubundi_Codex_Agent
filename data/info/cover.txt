@@ -1,0 +1,14 @@
+📄 Cover Letter (Clarence Obini)
+
+Dear Hiring Manager,
+
+I am writing to express my interest in opportunities that align with my background in artificial intelligence, data engineering, and full-stack development. With hands-on experience building intelligent systems and automating workflows, I bring a strong combination of technical expertise and problem-solving ability to any team I join.
+
+In my recent role, I led the development of a large-scale automation system that integrated task data across two major project management platforms. Using Node.js, Firestore, and Google Apps Script, I implemented a high-performance data pipeline that handled thousands of records, optimized API usage, and significantly improved operational efficiency.
+
+Beyond backend systems, I’ve also built mobile and web applications using React Native and Firebase, and I’ve deployed machine learning models using TensorFlow, scikit-learn, and XGBoost. Whether it’s streamlining processes with automation or creating predictive models, I focus on delivering scalable, practical solutions that create real value.
+
+I’m excited about the opportunity to contribute to a forward-thinking organization and bring my skills to new challenges. Thank you for considering my application—I look forward to the possibility of discussing how I can contribute to your team.
+
+Sincerely,
+Clarence Obini
