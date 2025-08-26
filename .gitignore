@@ -46,11 +46,4 @@ __cache__/
 .env
 *.env.local
 
-# Output / data storage
-data/
-uploads/
-outputs/
-*.pdf
-*.docx
-*.md
-*.txt
+#
