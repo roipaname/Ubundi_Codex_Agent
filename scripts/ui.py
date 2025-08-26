@@ -246,7 +246,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Tabs ---
-tab1, tab2, tab3 = st.tabs(["🔍 Ask Questions", "📂 Upload Content"])
+tab1, tab2 = st.tabs(["🔍 Ask Questions", "📂 Upload Content"])
 
 # --- Tab 1: Ask Questions ---
 with tab1:
