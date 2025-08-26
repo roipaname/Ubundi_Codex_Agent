@@ -5,7 +5,7 @@ import requests
 API_URL = "http://localhost:8000"  # FastAPI backend
 
 st.set_page_config(
-    page_title="Ziyanda's Personal Study AI Agent",
+    page_title="Clarence's Personal Resume AI Agent",
     page_icon="👑",
     layout="wide"
 )
