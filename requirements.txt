@@ -1,32 +1,25 @@
-# Core AI + Transformers
+transformers>=4.44.0
+datasets>=2.20.0
+accelerate>=0.33.0
+peft>=0.11.1
 torch>=2.2.0
-transformers>=4.42.0
-sentence-transformers>=3.0.0
-huggingface-hub>=0.23.0
-
-# Vector database
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
 faiss-cpu>=1.8.0
-# (if you have GPU, replace with faiss-gpu)
-
-# LangChain (framework for RAG pipelines)
-langchain>=0.2.5
-langchain-community>=0.2.5
-
-# Document loaders (for CV and other files)
-langchain-text-splitters>=0.2.1
-langchain-openai>=0.1.7      # if you ever plug OpenAI in
-unstructured>=0.15.0         # handles txt, pdf, docx, md
-python-docx>=1.1.0           # docx parsing
-PyPDF2>=3.0.1                # pdf parsing
-markdown>=3.6                # md parsing
-chardet>=5.2.0               # encoding detection
-
-# Optional but recommended
-tqdm>=4.66.0
-numpy>=1.26.4
-python-dotenv>=1.0.1         
-
-# API/Chat interface
-fastapi>=0.111.0
-uvicorn[standard]>=0.29.0
-streamlit
+sentence-transformers>=3.0.1
+langchain>=0.2.10
+langchain-community>=0.2.10
+rank-bm25>=0.2.2
+unstructured>=0.14.6
+unstructured[pdf]>=0.14.6
+pymupdf>=1.24.10
+python-docx>=1.1.2
+pypdf>=4.3.1
+tiktoken>=0.7.0
+fastapi>=0.112
+uvicorn[standard]>=0.30
+python-dotenv>=1.0.1
+requests>=2.32
+beautifulsoup4>=4.12
+readability-lxml>=0.8.1
