@@ -44,10 +44,7 @@ Question:
 CONTEXT (Resume):
 {context}
 
-WEB_SNIPPETS (Optional):
-{web}
 
-Answer:
 """
 
 
@@ -85,8 +82,8 @@ def answer(query: str, use_web: bool = True, k: int = 4):
                 continue
         web_txt = "\n\n".join(snippets)
 
-    prompt = PROMPT.format(question=query, context=context, web=web_txt or "(none)")
+    prompt = PROMPT.format(question=query, context=context)
     return generate_answer(prompt)
 
 if __name__ == "__main__":
-    print(answer("which languages does clarence know", use_web=True))
+    print(answer("where did clarence work", use_web=False))
