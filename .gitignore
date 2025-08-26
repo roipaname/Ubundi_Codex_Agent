@@ -45,5 +45,5 @@ __cache__/
 # Environment variables
 .env
 *.env.local
-
+models/
 #
