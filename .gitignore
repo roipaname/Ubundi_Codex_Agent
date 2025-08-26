@@ -1,0 +1,56 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+myenv/
+venv/
+env/
+.ai-agent-env/
+.ai-agent-env*/
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Logs & temp files
+*.log
+*.tmp
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# FAISS / Vector DB files
+*.faiss
+*.index
+*.idx
+*.h5
+
+# Hugging Face cache
+~/.cache/
+huggingface_cache/
+cache/
+__cache__/
+
+# Environment variables
+.env
+*.env.local
+
+# Output / data storage
+data/
+uploads/
+outputs/
+*.pdf
+*.docx
+*.md
+*.txt
