@@ -1,0 +1,11 @@
+## Career Narrative
+
+Clarence Ebebe is an AI and Automations Engineer with more than four years of professional experience at the intersection of data science, software engineering, and workflow automation. His early academic journey began in Cameroon at **Sacred Heart College, Mankon**, a highly regarded institution recognized for its culture of discipline, academic excellence, and leadership development.
+
+During his years at Sacred Heart, Clarence developed a strong foundation in mathematics, the sciences, and analytical thinking—skills that would later become central to his career in technology. His performance at the **GCE Advanced Level examinations** was exceptional, achieving **4 As and 1 B**, an outcome that demonstrated not only his intellectual ability but also his commitment to sustained effort and excellence. Beyond academics, his education also fostered resilience, teamwork, and a problem-solving mindset, all of which shaped his professional character.
+
+Building on this solid foundation, Clarence began his career in **web development**, designing and deploying scalable applications with technologies such as React, Node.js, and Python. These early experiences gave him strong software engineering instincts and a clear understanding of how to build reliable systems. Over time, his curiosity for data-driven solutions led him into **machine learning and data science**, where he created predictive models that boosted customer retention, optimized marketing outcomes, and automated decision-making pipelines.
+
+Currently at **Kodah**, Clarence focuses on designing **AI-powered automation solutions** that help businesses streamline processes and operate more efficiently. His work often requires integrating APIs, leveraging cloud platforms, and embedding advanced machine learning models into real-world applications. By combining technical expertise with practical business insight, Clarence has delivered solutions that not only reduce operational costs but also enhance overall system performance.
+
+His journey—from excelling at Sacred Heart College in Cameroon, to becoming an engineer who blends AI, automation, and software development—highlights a consistent theme of growth, adaptability, and impact.

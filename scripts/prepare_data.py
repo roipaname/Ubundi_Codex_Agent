@@ -5,7 +5,7 @@ from utils.loader import collect_files, load_any
 random.seed(42)
 
 DATA_DIR = "data/info"
-OUT_PATH = "data/lecture_instructions.jsonl"
+OUT_PATH = "data/resume_instructions.jsonl"
 
 TEMPLATE = (
     "You are a helpful AI assistant that knows everything about the user's CV, "
